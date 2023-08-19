@@ -1,6 +1,7 @@
 # web_source.py
 import time
 import pandas as pd
+from IO import BytesIO
 
 class WebSource:
     def __init__(self):
